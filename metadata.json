@@ -1,0 +1,7 @@
+{
+  "name": "COautorIA",
+  "description": "Assistente de escrita para Mostras do Conhecimento. Auxilia estudantes a estruturar cada seção do trabalho científico em 2 parágrafos rigorosos com justificativa pedagógica e fontes de pesquisa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
